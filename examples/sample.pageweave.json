@@ -1,0 +1,619 @@
+{
+  "format": "swarm-design",
+  "version": 1,
+  "title": "Fieldnotes — PageWeave sample",
+  "scope": "page",
+  "width": 1280,
+  "height": 885,
+  "background": {
+    "r": 0.9647058823529412,
+    "g": 0.9490196078431372,
+    "b": 0.9137254901960784,
+    "a": 1
+  },
+  "nodes": [
+    {
+      "x": 0,
+      "y": 0,
+      "width": 1280,
+      "height": 884.671875,
+      "name": "body",
+      "opacity": 1,
+      "type": "rect",
+      "fill": {
+        "r": 0.9647058823529412,
+        "g": 0.9490196078431372,
+        "b": 0.9137254901960784,
+        "a": 1
+      },
+      "stroke": {
+        "r": 0.09803921568627451,
+        "g": 0.24705882352941178,
+        "b": 0.2,
+        "a": 1
+      },
+      "border": 0,
+      "radius": 0
+    },
+    {
+      "x": 122,
+      "y": 33.5,
+      "width": 129.546875,
+      "height": 32,
+      "type": "text",
+      "name": "Fieldnotes",
+      "text": "Fieldnotes",
+      "opacity": 1,
+      "fill": {
+        "r": 0.09803921568627451,
+        "g": 0.24705882352941178,
+        "b": 0.2,
+        "a": 1
+      },
+      "fontFamily": "Georgia",
+      "fontSize": 28,
+      "fontWeight": 400,
+      "italic": false,
+      "lineHeight": null,
+      "letterSpacing": 0,
+      "align": "start"
+    },
+    {
+      "x": 987.546875,
+      "y": 40.78125,
+      "width": 170.453125,
+      "height": 17,
+      "type": "text",
+      "name": "Studio Journal About",
+      "text": "Studio Journal About",
+      "opacity": 1,
+      "fill": {
+        "r": 0.09803921568627451,
+        "g": 0.24705882352941178,
+        "b": 0.2,
+        "a": 1
+      },
+      "fontFamily": "system-ui",
+      "fontSize": 13,
+      "fontWeight": 400,
+      "italic": false,
+      "lineHeight": 21.45,
+      "letterSpacing": 0,
+      "align": "start"
+    },
+    {
+      "x": 122,
+      "y": 182,
+      "width": 148.828125,
+      "height": 15,
+      "type": "text",
+      "name": "A PAGEWEAVE SAMPLE",
+      "text": "A PAGEWEAVE SAMPLE",
+      "opacity": 1,
+      "fill": {
+        "r": 0.09803921568627451,
+        "g": 0.24705882352941178,
+        "b": 0.2,
+        "a": 1
+      },
+      "fontFamily": "system-ui",
+      "fontSize": 11,
+      "fontWeight": 400,
+      "italic": false,
+      "lineHeight": 18.15,
+      "letterSpacing": 2,
+      "align": "start"
+    },
+    {
+      "x": 122,
+      "y": 222.390625,
+      "width": 342.8125,
+      "height": 87,
+      "type": "text",
+      "name": "Good ideas",
+      "text": "Good ideas",
+      "opacity": 1,
+      "fill": {
+        "r": 0.09803921568627451,
+        "g": 0.24705882352941178,
+        "b": 0.2,
+        "a": 1
+      },
+      "fontFamily": "Georgia",
+      "fontSize": 76,
+      "fontWeight": 400,
+      "italic": false,
+      "lineHeight": 79.8,
+      "letterSpacing": -3,
+      "align": "start"
+    },
+    {
+      "x": 122,
+      "y": 302.1875,
+      "width": 343.328125,
+      "height": 87,
+      "type": "text",
+      "name": "take shape.",
+      "text": "take shape.",
+      "opacity": 1,
+      "fill": {
+        "r": 0.09803921568627451,
+        "g": 0.24705882352941178,
+        "b": 0.2,
+        "a": 1
+      },
+      "fontFamily": "Georgia",
+      "fontSize": 76,
+      "fontWeight": 400,
+      "italic": false,
+      "lineHeight": 79.8,
+      "letterSpacing": -3,
+      "align": "start"
+    },
+    {
+      "x": 122,
+      "y": 412.984375,
+      "width": 381.75,
+      "height": 47.390625,
+      "type": "text",
+      "name": "A little space to observe, collect and turn the everyday int",
+      "text": "A little space to observe, collect and turn the everyday into something worth keeping.",
+      "opacity": 1,
+      "fill": {
+        "r": 0.39215686274509803,
+        "g": 0.4588235294117647,
+        "b": 0.396078431372549,
+        "a": 1
+      },
+      "fontFamily": "system-ui",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "italic": false,
+      "lineHeight": 26.4,
+      "letterSpacing": 0,
+      "align": "start"
+    },
+    {
+      "x": 122,
+      "y": 494.765625,
+      "width": 164.796875,
+      "height": 45.4375,
+      "name": "span",
+      "opacity": 1,
+      "type": "rect",
+      "fill": {
+        "r": 0.09803921568627451,
+        "g": 0.24705882352941178,
+        "b": 0.2,
+        "a": 1
+      },
+      "stroke": {
+        "r": 1,
+        "g": 0.9764705882352941,
+        "b": 0.9333333333333333,
+        "a": 1
+      },
+      "border": 0,
+      "radius": 4
+    },
+    {
+      "x": 144,
+      "y": 508.765625,
+      "width": 120.796875,
+      "height": 17,
+      "type": "text",
+      "name": "Explore the journal ↗",
+      "text": "Explore the journal ↗",
+      "opacity": 1,
+      "fill": {
+        "r": 1,
+        "g": 0.9764705882352941,
+        "b": 0.9333333333333333,
+        "a": 1
+      },
+      "fontFamily": "system-ui",
+      "fontSize": 13,
+      "fontWeight": 400,
+      "italic": false,
+      "lineHeight": 21.45,
+      "letterSpacing": 0,
+      "align": "start"
+    },
+    {
+      "x": 693.234375,
+      "y": 242.59375,
+      "width": 144.921875,
+      "height": 230,
+      "name": "i",
+      "opacity": 1,
+      "type": "rect",
+      "fill": {
+        "r": 0.9098039215686274,
+        "g": 0.6823529411764706,
+        "b": 0.5333333333333333,
+        "a": 1
+      },
+      "stroke": {
+        "r": 0.09803921568627451,
+        "g": 0.24705882352941178,
+        "b": 0.2,
+        "a": 1
+      },
+      "border": 0,
+      "radius": 100
+    },
+    {
+      "x": 853.15625,
+      "y": 222.59375,
+      "width": 144.921875,
+      "height": 270,
+      "name": "i",
+      "opacity": 1,
+      "type": "rect",
+      "fill": {
+        "r": 0.6823529411764706,
+        "g": 0.7803921568627451,
+        "b": 0.6509803921568628,
+        "a": 1
+      },
+      "stroke": {
+        "r": 0.09803921568627451,
+        "g": 0.24705882352941178,
+        "b": 0.2,
+        "a": 1
+      },
+      "border": 0,
+      "radius": 4
+    },
+    {
+      "x": 1013.078125,
+      "y": 252.59375,
+      "width": 144.921875,
+      "height": 210,
+      "name": "i",
+      "opacity": 1,
+      "type": "rect",
+      "fill": {
+        "r": 0.4745098039215686,
+        "g": 0.611764705882353,
+        "b": 0.5019607843137255,
+        "a": 1
+      },
+      "stroke": {
+        "r": 0.09803921568627451,
+        "g": 0.24705882352941178,
+        "b": 0.2,
+        "a": 1
+      },
+      "border": 0,
+      "radius": 100
+    },
+    {
+      "x": 122,
+      "y": 595.203125,
+      "width": 326.65625,
+      "height": 180.328125,
+      "name": "article",
+      "opacity": 1,
+      "type": "rect",
+      "fill": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+      },
+      "stroke": {
+        "r": 0.7411764705882353,
+        "g": 0.8,
+        "b": 0.7058823529411765,
+        "a": 1
+      },
+      "border": 1,
+      "radius": 0
+    },
+    {
+      "x": 122,
+      "y": 621.203125,
+      "width": 81.390625,
+      "height": 17,
+      "type": "text",
+      "name": "01 / OBSERVE",
+      "text": "01 / OBSERVE",
+      "opacity": 1,
+      "fill": {
+        "r": 0.4823529411764706,
+        "g": 0.5529411764705883,
+        "b": 0.4627450980392157,
+        "a": 1
+      },
+      "fontFamily": "system-ui",
+      "fontSize": 13.3333,
+      "fontWeight": 400,
+      "italic": false,
+      "lineHeight": 22,
+      "letterSpacing": 0,
+      "align": "start"
+    },
+    {
+      "x": 122,
+      "y": 661.671875,
+      "width": 249.21875,
+      "height": 26,
+      "type": "text",
+      "name": "Find your starting point.",
+      "text": "Find your starting point.",
+      "opacity": 1,
+      "fill": {
+        "r": 0.09803921568627451,
+        "g": 0.24705882352941178,
+        "b": 0.2,
+        "a": 1
+      },
+      "fontFamily": "Georgia",
+      "fontSize": 23,
+      "fontWeight": 400,
+      "italic": false,
+      "lineHeight": null,
+      "letterSpacing": 0,
+      "align": "start"
+    },
+    {
+      "x": 122,
+      "y": 708.75,
+      "width": 281.1875,
+      "height": 47.390625,
+      "type": "text",
+      "name": "Notice the details that make a page feel considered.",
+      "text": "Notice the details that make a page feel considered.",
+      "opacity": 1,
+      "fill": {
+        "r": 0.09803921568627451,
+        "g": 0.24705882352941178,
+        "b": 0.2,
+        "a": 1
+      },
+      "fontFamily": "system-ui",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "italic": false,
+      "lineHeight": 26.4,
+      "letterSpacing": 0,
+      "align": "start"
+    },
+    {
+      "x": 476.65625,
+      "y": 595.203125,
+      "width": 326.671875,
+      "height": 180.328125,
+      "name": "article",
+      "opacity": 1,
+      "type": "rect",
+      "fill": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+      },
+      "stroke": {
+        "r": 0.7411764705882353,
+        "g": 0.8,
+        "b": 0.7058823529411765,
+        "a": 1
+      },
+      "border": 1,
+      "radius": 0
+    },
+    {
+      "x": 476.65625,
+      "y": 621.203125,
+      "width": 79.34375,
+      "height": 17,
+      "type": "text",
+      "name": "02 / COLLECT",
+      "text": "02 / COLLECT",
+      "opacity": 1,
+      "fill": {
+        "r": 0.4823529411764706,
+        "g": 0.5529411764705883,
+        "b": 0.4627450980392157,
+        "a": 1
+      },
+      "fontFamily": "system-ui",
+      "fontSize": 13.3333,
+      "fontWeight": 400,
+      "italic": false,
+      "lineHeight": 22,
+      "letterSpacing": 0,
+      "align": "start"
+    },
+    {
+      "x": 476.65625,
+      "y": 661.671875,
+      "width": 230.71875,
+      "height": 26,
+      "type": "text",
+      "name": "Keep the useful pieces.",
+      "text": "Keep the useful pieces.",
+      "opacity": 1,
+      "fill": {
+        "r": 0.09803921568627451,
+        "g": 0.24705882352941178,
+        "b": 0.2,
+        "a": 1
+      },
+      "fontFamily": "Georgia",
+      "fontSize": 23,
+      "fontWeight": 400,
+      "italic": false,
+      "lineHeight": null,
+      "letterSpacing": 0,
+      "align": "start"
+    },
+    {
+      "x": 476.65625,
+      "y": 708.75,
+      "width": 319.390625,
+      "height": 47.390625,
+      "type": "text",
+      "name": "Bring text, shapes and colour into an editable canvas.",
+      "text": "Bring text, shapes and colour into an editable canvas.",
+      "opacity": 1,
+      "fill": {
+        "r": 0.09803921568627451,
+        "g": 0.24705882352941178,
+        "b": 0.2,
+        "a": 1
+      },
+      "fontFamily": "system-ui",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "italic": false,
+      "lineHeight": 26.4,
+      "letterSpacing": 0,
+      "align": "start"
+    },
+    {
+      "x": 831.328125,
+      "y": 595.203125,
+      "width": 326.65625,
+      "height": 180.328125,
+      "name": "article",
+      "opacity": 1,
+      "type": "rect",
+      "fill": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+      },
+      "stroke": {
+        "r": 0.7411764705882353,
+        "g": 0.8,
+        "b": 0.7058823529411765,
+        "a": 1
+      },
+      "border": 1,
+      "radius": 0
+    },
+    {
+      "x": 831.328125,
+      "y": 621.203125,
+      "width": 61.921875,
+      "height": 17,
+      "type": "text",
+      "name": "03 / MAKE",
+      "text": "03 / MAKE",
+      "opacity": 1,
+      "fill": {
+        "r": 0.4823529411764706,
+        "g": 0.5529411764705883,
+        "b": 0.4627450980392157,
+        "a": 1
+      },
+      "fontFamily": "system-ui",
+      "fontSize": 13.3333,
+      "fontWeight": 400,
+      "italic": false,
+      "lineHeight": 22,
+      "letterSpacing": 0,
+      "align": "start"
+    },
+    {
+      "x": 831.328125,
+      "y": 661.671875,
+      "width": 233.875,
+      "height": 26,
+      "type": "text",
+      "name": "Give it a new direction.",
+      "text": "Give it a new direction.",
+      "opacity": 1,
+      "fill": {
+        "r": 0.09803921568627451,
+        "g": 0.24705882352941178,
+        "b": 0.2,
+        "a": 1
+      },
+      "fontFamily": "Georgia",
+      "fontSize": 23,
+      "fontWeight": 400,
+      "italic": false,
+      "lineHeight": null,
+      "letterSpacing": 0,
+      "align": "start"
+    },
+    {
+      "x": 831.328125,
+      "y": 708.75,
+      "width": 303.03125,
+      "height": 47.390625,
+      "type": "text",
+      "name": "Explore a layout and make the next version your own.",
+      "text": "Explore a layout and make the next version your own.",
+      "opacity": 1,
+      "fill": {
+        "r": 0.09803921568627451,
+        "g": 0.24705882352941178,
+        "b": 0.2,
+        "a": 1
+      },
+      "fontFamily": "system-ui",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "italic": false,
+      "lineHeight": 26.4,
+      "letterSpacing": 0,
+      "align": "start"
+    },
+    {
+      "x": 80,
+      "y": 825.53125,
+      "width": 1120,
+      "height": 59.140625,
+      "name": "footer",
+      "opacity": 1,
+      "type": "rect",
+      "fill": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+      },
+      "stroke": {
+        "r": 0.8509803921568627,
+        "g": 0.8745098039215686,
+        "b": 0.8117647058823529,
+        "a": 1
+      },
+      "border": 1,
+      "radius": 0
+    },
+    {
+      "x": 122,
+      "y": 847.53125,
+      "width": 314.78125,
+      "height": 15,
+      "type": "text",
+      "name": "Sample page created for PageWeave · Developed by OmniCan.ca",
+      "text": "Sample page created for PageWeave · Developed by OmniCan.ca",
+      "opacity": 1,
+      "fill": {
+        "r": 0.39215686274509803,
+        "g": 0.4588235294117647,
+        "b": 0.396078431372549,
+        "a": 1
+      },
+      "fontFamily": "system-ui",
+      "fontSize": 11,
+      "fontWeight": 400,
+      "italic": false,
+      "lineHeight": 18.15,
+      "letterSpacing": 0,
+      "align": "start"
+    }
+  ],
+  "assets": {},
+  "warnings": [
+    "Full page captures only loaded content; lazy/virtualized content and nested scrolling areas may be incomplete.",
+    "Layer order approximates DOM order; CSS stacking and clipping may need cleanup."
+  ]
+}
